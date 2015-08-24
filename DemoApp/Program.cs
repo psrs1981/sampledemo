@@ -16,6 +16,7 @@ namespace DemoApp
             Console.WriteLine("New Branch1.1 changes");
             //stashing
             //stashing2
+            //some dummy changes
             // commit push sample
             //commit dummy
         }
