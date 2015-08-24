@@ -11,6 +11,7 @@ namespace DemoApp
         static void Main(string[] args)
         {
             Console.WriteLine("Demo App For GIT");
+            Console.WriteLine("New Branch1 changes");
         }
     }
 }
